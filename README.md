@@ -1,6 +1,7 @@
 # YoutubeVideo
 
-TODO: Write a gem description
+It is a gem to play youtube videos in our site.
+
 
 ## Installation
 
@@ -20,7 +21,13 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Get the id of your youtube url. for example the youtube url is "https://www.youtube.com/watch?v=GTGaenVHg14" from here we need to take the id that is "GTGaenVHg14".
+
+And then next simply you need to pass this as like 
+
+youtube_url_code(id,width,height)
+
+Thats it.
 
 ## Contributing
 
