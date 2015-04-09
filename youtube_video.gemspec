@@ -9,8 +9,8 @@ Gem::Specification.new do |spec|
   spec.platform = Gem::Platform::RUBY
   spec.authors       = ["kapil kumar"]
   spec.email         = ["kapil07517@gmail.com"]
-  spec.summary       = "first step"
-  spec.description   = "first step"
+  spec.summary       = "Simple gem to play youtube videos in our site"
+  spec.description   = "Simple gem to play youtube videos in our site"
   spec.homepage      = ""
   spec.license       = "MIT"
 
